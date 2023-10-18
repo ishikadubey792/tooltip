@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `Hosted On`
-open [https://abhithakur7080-react-album.netlify.app/](https://abhithakur7080-react-album.netlify.app/) to view it in your browser
+open [https://tooltipishika.netlify.app/](https://tooltipishika.netlify.app/) to view it in your browser
 
 ## Features
 
